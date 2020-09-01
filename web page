@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>my 1st web page</title>
+</head>
+<body bg color="red"text="pink">
+<h1 align="center">TNTRODUCTION</H1>
+<B>my name</B>Ankit kumar<br>
+<b>my father's name</b>arun kumar<br>
+i live at<b>jamui</b><br>
+my qualification<b>12</b><br><b><i>science</b></i></br>
+my nationality<font color="black"><b>indian</b>
+</font>
+</body>
+</html>
